@@ -36,7 +36,7 @@
 
         <div class="row">
             <div class="col-sm-6">
-                <a href="#" class="btn btn-block btn-default">
+                <a href="{{route('admin.category.create')}}" class="btn btn-block btn-default">
                     Add category
                 </a>
             </div>
